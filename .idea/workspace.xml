@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="745c7dda-1354-4b2f-bf23-c8b292fbba46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/src/main/java/com/xcode/mall/coupon/CouponApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coupon/src/test/java/com/xcode/mall/coupon/CouponApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/src/main/java/com/xcode/mall/order/OrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order/src/test/java/com/xcode/mall/order/OrderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/src/main/java/com/xcode/mall/product/ProductApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Product/src/test/java/com/xcode/mall/product/ProductApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/src/main/java/com/xcode/mall/ware/WareApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ware/src/test/java/com/xcode/mall/ware/WareApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Member/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Member/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Member/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Member/src/main/java/com/xcode/mall/member/MemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Member/src/main/java/com/xcode/mall/member/MemberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Member/src/test/java/com/xcode/mall/member/MemberApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Member/src/test/java/com/xcode/mall/member/MemberApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Member" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.CouponApplication">
+    <configuration name="CouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xcode.mall.coupon.CouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xcode.mall.member.MemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xcode.mall.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xcode.mall.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xcode.mall.ware.WareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="745c7dda-1354-4b2f-bf23-c8b292fbba46" name="Changes" comment="" />
+      <created>1706422922638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706422922638</updated>
+      <workItem from="1706422923777" duration="451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
